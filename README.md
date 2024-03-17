@@ -1,2 +1,2 @@
 # Project---Spotify-Clone
-Project - "Spotify Clone", with the help of HTML &amp; CSS 
+Project - "Spotify Clone", using HTML &amp; CSS 
