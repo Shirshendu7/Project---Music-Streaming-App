@@ -1,2 +1,2 @@
-# Project---Music Streaming App 1
-Project - "Music Streaming App", using HTML &amp; CSS 
+# Project---Sportify Clone
+Project - "Sportify Clone", using HTML &amp; CSS 
